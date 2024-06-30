@@ -1,0 +1,62 @@
+.accordion-body .row {
+    margin-bottom: 5px;
+}
+
+.form-check-inline {
+    margin-right: 3px;
+}
+form .row>* {
+    padding-right: 1px;
+    padding-left: 1px;
+}
+
+.icon {
+    width: 20px; /* Set the desired width */
+    height: 20px; /* Set the desired height */
+}
+
+h1 {
+    margin-bottom: 24px;
+}
+.accordion-header button {
+    font-weight: bold;
+}
+
+canvas {
+    border: 0px solid #000;
+}
+
+.actions {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    float: right;
+}
+
+.button {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+/** Badges */
+.teamBadge {
+    background-color: #0D6EFD;
+}
+
+.partyBadge {
+    background-color: #04AA6D;
+}
+
+/** Checkboxes */
+.form-check-input {
+    background-color: #04AA6D;
+}
+
+.form-check-input:checked {
+    background-color: #04AA6D;
+}
